@@ -18,13 +18,11 @@ _ _ _ _ _
 * Confira todos os meus artigos no [Medium](https://medium.com/@mazoelle09).
 
 ### 🛠️ Ferramentas e Tecnologias
-_ _ _ _ _ 
+---
 <p align="left">
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI" height="30"/>
-<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="30"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/-Google%20Sheets-00AC47?style=flat&logo=google-sheets&logoColor=white" alt="Google Sheets" />
 </p>
-```
-
-
 
