@@ -19,11 +19,12 @@ _ _ _ _ _
 
 ### 🛠️ Ferramentas e Tecnologias
 _ _ _ _ _ 
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" alt="Excel" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="Power BI" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40" />
+<img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI" height="30"/>
+<img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="30"/>
 </p>
+```
+
 
 
