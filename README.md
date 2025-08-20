@@ -4,7 +4,7 @@
 </h2>
 
 ### 👩‍💻 About me
-_ _ _ _ _ 
+
 
 * 🎓 I hold a degree in Business Administration.
 * 📊 I'm passionate about transforming data into actionable business insights.
