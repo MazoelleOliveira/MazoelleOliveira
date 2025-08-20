@@ -29,16 +29,16 @@ _ _ _ _ _
 
 ### 📬 Get in Touch
 ---
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mazoelle-oliveira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:mazoelle09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/MazoelleOliveira" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
