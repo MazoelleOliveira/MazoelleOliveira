@@ -17,4 +17,13 @@ _ _ _ _ _
 
 * Confira todos os meus artigos no [Medium](https://medium.com/@mazoelle09).
 
+### 🛠️ Ferramentas e Tecnologias
+_ _ _ _ _ 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-plain.svg" alt="Excel" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="Power BI" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40" />
+</p>
+
 
