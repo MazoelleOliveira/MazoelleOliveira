@@ -12,7 +12,7 @@
 * 🚀 I'm currently expanding my skills in Data Analytics, with a focus on Excel, SQL, and data visualization.
 
 <hr style="border-top: 1px solid #808080;">
-### 📝 Artigos no Medium
+📝 Artigos no Medium
 <hr style="border-top: 1px solid #808080;">
 
 * Confira todos os meus artigos no [Medium](https://medium.com/@mazoelle09).
