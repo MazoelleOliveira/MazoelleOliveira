@@ -13,7 +13,7 @@
 
 _ _ _ _ _ 
 ### 📝 Artigos no Medium
-_ _ _ _ _ 
+
 
 * Confira todos os meus artigos no [Medium](https://medium.com/@mazoelle09).
 
