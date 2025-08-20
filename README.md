@@ -5,7 +5,6 @@
 
 ### 👩‍💻 About me
 
-
 * 🎓 I hold a degree in Business Administration.
 * 📊 I'm passionate about transforming data into actionable business insights.
 * 🔍 I'm a curious and analytical individual, dedicated to using information to drive better decisions.
