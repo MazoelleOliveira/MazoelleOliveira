@@ -13,12 +13,12 @@ _ _ _ _ _
 * 🚀 I'm currently expanding my skills in Data Analytics, with a focus on Excel, SQL, and data visualization.
 
 
-### 📝 Artigos no Medium
+### 📝 Articles no Medium
 
 
 * check out all my articles on [Medium](https://medium.com/@mazoelle09)
 
-### 🛠️ Ferramentas e Tecnologias
+### 🛠️ Tools and Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI" />
