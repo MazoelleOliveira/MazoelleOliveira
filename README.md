@@ -16,7 +16,7 @@ _ _ _ _ _
 ### 📝 Artigos no Medium
 
 
-* check out all my articles on [Medium](https://medium.com/@mazoelle09).
+* check out all my articles on [Medium](https://medium.com/@mazoelle09)
 
 ### 🛠️ Ferramentas e Tecnologias
 <p align="left">
